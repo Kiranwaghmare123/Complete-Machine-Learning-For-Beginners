@@ -34,11 +34,7 @@ The classification of that object is called a LABEL.
 
 * Ensure no single feature automatically determine the label.
 
-# Getting your hands dirty
 
-[![Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/yash42828/Complete-Machine-Learning-For-Beginners)
-
-### ([Please feel free to connect on LinkedIn here](https://www.linkedin.com/in/yash-bajaj-a50013123/))
 ---
 
 ## Requirements
